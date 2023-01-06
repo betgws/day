@@ -1,0 +1,20 @@
+.hh{
+
+    background-color: aqua;
+    border: none;
+    cursor: pointer;
+    transition: background-color 3s;
+
+}
+.hh:hover{
+    background-color: aquamarine;
+
+}
+.aa{
+font-family: 'Noto Sans KR',sans-serif;
+
+}
+.image{
+    width: 150px;
+
+}
